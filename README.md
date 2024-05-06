@@ -4,7 +4,7 @@ This is pratice from ZTM classes: [javascript-web-projects-to-build-your-portfol
 ---
 resource:
 - joker-teller template:
-    [Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/92560234-a90a-4344-8092-7edf736a18ec/ba271596-1a0c-40d3-b305-e5d2fc836f7b/Untitled.zip)
+    [--+template-joke-teller.zip](https://prod-files-secure.s3.us-west-2.amazonaws.com/92560234-a90a-4344-8092-7edf736a18ec/ba271596-1a0c-40d3-b305-e5d2fc836f7b/Untitled.zip)
 - speak api voice RSS:
     https://www.voicerss.org/api/
 - joke api:
