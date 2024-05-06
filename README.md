@@ -12,3 +12,4 @@ resource:
 - audio eventHTML Audio/Video DOM Reference
     https://www.w3schools.com/tags/ref_av_dom.asp
 - 概念圖：  
+    ![Joke+Teller+Flowchart](https://github.com/joeban0608/ZTM-Joke-Teller/assets/80736596/bfdf8ad8-2f25-4bea-9487-037b277c4691)
